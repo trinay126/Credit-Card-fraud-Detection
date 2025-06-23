@@ -123,7 +123,6 @@ The Credit Card Fraud Detection dashboard provides a clear and data-driven overv
 ## 📷 Screenshots
 ## Dashboard Preview
 ![Dashboard](Dashboard_Overview.png)
-## Forecast
 ![Forecast](Forecast_chart.png)
 
 ---
