@@ -123,8 +123,6 @@ Overall, the project demonstrates how Excel can be leveraged for practical fraud
 ---
 
 ## 📷 Screenshots
-
- ## 📊 Dashboard Preview
 ![Dashboard](Dashboard Overview.png)
 
 
