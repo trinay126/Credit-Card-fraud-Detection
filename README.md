@@ -123,7 +123,7 @@ Overall, the project demonstrates how Excel can be leveraged for practical fraud
 ---
 
 ## 📷 Screenshots
-![Dashboard](Dashboard Overview.png)
+![Dashboard](Credit-Card-fraud-Detection/Dashboard Overview.png)
 
 
 ---
