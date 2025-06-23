@@ -124,8 +124,9 @@ Overall, the project demonstrates how Excel can be leveraged for practical fraud
 
 ## 📷 Screenshots
 
- Screenshots/Dashboard Overview.png
- [Forecast](Screenshots/Forecast Chart.png)  
+ ## 📊 Dashboard Preview
+![Dashboard](Dashboard Overview.png)
+
 
 ---
 ## 📂 Dataset
