@@ -118,17 +118,15 @@ The Credit Card Fraud Detection dashboard provides a clear and data-driven overv
 - **Rule-based flagging captured 95% of known frauds using simple logic.**
 - **Forecasting shows a rising trend, suggesting the need for preventive monitoring.**
 
-Overall, the project demonstrates how Excel can be leveraged for practical fraud detection and lays the foundation for transitioning to tools like **Power BI, SQL, or Python** for more scalable solutions.
-
 ---
 
 ## 📷 Screenshots
-![Dashboard](Credit-Card-fraud-Detection/Dashboard Overview.png)
+![Dashboard](Dashboard Overview.png)
 
 
 ---
 ## 📂 Dataset
-Original Dataset: [Kaggle - Walmart Sales](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Original Dataset: [Kaggle - Credit Card Fraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 
 ## 🧑‍💻 Author
